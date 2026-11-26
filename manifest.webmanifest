@@ -1,6 +1,6 @@
 {
-  "name": "Avaliação de Operadores",
-  "short_name": "Avaliação",
+  "name": "AVALIAÇÃO DE CAMPO - OPERADORES",
+  "short_name": "Avaliação Campo",
   "description": "Registro de avaliações em campo",
   "start_url": "./index.html",
   "scope": "./",
